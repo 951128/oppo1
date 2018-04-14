@@ -1,0 +1,99 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-21 09:28:00
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-22 13:57:53
+*/
+.box{
+	width: 453px;
+	height: 917px;
+	display: block;
+	overflow: hidden;
+	background: #cbcdcd;
+	margin: 0 auto;
+	border-radius: 30px;
+	box-shadow: 0 0 5px 2px #fff inset;
+	position: relative;
+}
+.top{
+	display: block;
+	width: 437px;
+	height: 48px;
+	margin: 0 auto;
+	background:#adafac;
+	margin-top: 8px;
+	border-top-left-radius: 30px;
+	border-top-right-radius: 30px;
+}
+.xiangji{
+	width: 60px;
+	height: 100px;
+	position: absolute;
+	position: xiangji;
+	left: 35px;
+	top: 26px;
+	background: url('../img/xiangji.png') no-repeat;
+	display: block;
+}
+.huatong{
+	width: 3px;
+	height: 3px;
+	display: block;
+    border-radius: 50%;
+	background: black;
+	margin-left: 175px;
+	margin-top: 15px;
+}
+.biaozhi{
+	width: 168px;
+	height: 28px;
+	margin: 0 auto;
+	margin-top: 105px;
+	background: url('../img/biaozhi.png') no-repeat;
+}
+.waiyin{
+	width: 286px;
+	height: 22px;
+	margin: 0 auto;
+	margin-top:600px; 
+	background: url('../img/waiyin_14.png')
+}
+.bottom{
+	display: block;
+	width: 437px;
+	height: 48px;
+	margin: 0 auto;
+	background:#adafac;
+	margin-top: 30px;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+	overflow: hidden;
+}
+.anjian{
+	width: 3px;
+	height: 122px;
+	position: absolute;
+    top: 273px;
+    left: -3px;
+    display: block;
+}
+.anjianjia{
+	width: 3px;
+	height: 56px;
+	background: #bababa;
+    
+}
+.anjian-{
+	width: 3px;
+	height: 56px;
+	background: #bababa;
+	margin-top: 10px;
+}
+.anjian1{
+	width: 3px;
+	height: 73px;
+	background: #bababa;
+	position: absolute;
+	top: 260px;
+	right: -3px;
+}
